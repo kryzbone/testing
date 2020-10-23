@@ -1,3 +1,26 @@
+# SPIKIZI ADMIN DASHBOARD
+
+This application comprises the frontend of the dashboard, built in React.
+
+## helpful info:
+- the dashboard is built on top of a template: Argon Dashboard Pro (see below)
+- the template has a number of pages. however, the page we will focus on is the *'Admin'* page. that's where all dashboard pages will appear
+- the sidebar on the left is populated using the routes in the `routes.js` file. the file comprises a js config object which tells the dashboard which links to show in the sidebar, which route to change the url to, and which component screens to show when a sidebar link is clicked.
+- the API for this application is currently under development. as such, we will focus on building the screens for the application. once that is done, we will move on to integrating the backend APIs.
+- feel free to view the pages in the template, to understand how the components which come with the template can be used.
+- please do not remove the current routes in the side bar. they can help you easily identify and inspect the components that come with the template, and use the same style as the template.
+- please do not delete any packages or plugins that come with the template. if there is anything making your work unnecessarily difficult, kindly prompt me.
+<br />
+
+
+## kindly reach out if there are any questions.
+
+
+<br /><br /><br /><br />
+
+
+# FROM THE TEMPLATE:
+
 # [Argon Dashboard PRO React](https://demos.creative-tim.com/argon-dashboard-pro-react/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fargon-dashboard-pro-react&text=Argon%20Dashboard%20PRO%20React%20-%20Premium%20Reactstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%argon-dashboard-pro-react%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=react%2Creactstrap)
 
 
