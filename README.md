@@ -2,14 +2,25 @@
 
 This application comprises the frontend of the dashboard, built in React.
 
+## api documentation: https://spikizi.uc.r.appspot.com/
+
+## inspiration and guidance:
+- [I've worked on a similar project before](https://github.com/Renegade-React-Dev-Team/sample-dashboard-for-spikizi), with the same template. <br /> you can explore the source code for guidance on how I went about implementing the features, the UI design, ordering of folders, etc. kindly reach out if you have any questions.
+- do well to follow the patterns you observe in the aforementioned project. that will make your pull request accepted more quickly.
+- username: michael@effectstudios.co
+- password: v23R!DmgNzoN^
+<br />
+
 ## helpful info:
+- once you decide to work on a selected issue, assign it to yourself so it's clear which task you've decided to work on.
+- you can only work on one task at a time. if you would like to work on multiple tasks at a time, kindly communicate this to me. I'm more likely to agree if the tasks you want to work on are closely related, or dependent on each other.
+- build in your own branch, create a pull request from it (so progress can be observed), and notify me when you're ready for review.
 - the dashboard is built on top of a template: Argon Dashboard Pro (see below)
 - the template has a number of pages. however, the page we will focus on is the *'Admin'* page. that's where all dashboard pages will appear
 - the sidebar on the left is populated using the routes in the `routes.js` file. the file comprises a js config object which tells the dashboard which links to show in the sidebar, which route to change the url to, and which component screens to show when a sidebar link is clicked.
-- the API for this application is currently under development. as such, we will focus on building the screens for the application. once that is done, we will move on to integrating the backend APIs.
 - feel free to view the pages in the template, to understand how the components which come with the template can be used.
-- please do not remove the current routes in the side bar. they can help you easily identify and inspect the components that come with the template, and use the same style as the template.
-- please do not delete any packages or plugins that come with the template. if there is anything making your work unnecessarily difficult, kindly prompt me.
+- do not delete any packages or plugins that come with the template. if there is anything making your work unnecessarily difficult, kindly prompt me.
+- use the same loading indicator found in the [sample project](https://github.com/Renegade-React-Dev-Team/sample-dashboard-for-spikizi).
 <br />
 
 
@@ -19,7 +30,7 @@ This application comprises the frontend of the dashboard, built in React.
 <br /><br /><br /><br />
 
 
-# FROM THE TEMPLATE:
+## FROM THE TEMPLATE:
 
 # [Argon Dashboard PRO React](https://demos.creative-tim.com/argon-dashboard-pro-react/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fargon-dashboard-pro-react&text=Argon%20Dashboard%20PRO%20React%20-%20Premium%20Reactstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%argon-dashboard-pro-react%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=react%2Creactstrap)
 
