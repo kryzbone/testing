@@ -3,10 +3,15 @@
 This application comprises the frontend of the dashboard, built in React.
 
 ## api documentation: https://spikizi.uc.r.appspot.com/
+## login credentials to get authentication token : 
+- email: test@test.com
+- password: testtest
+<br />
 
 ## inspiration and guidance:
 - [I've worked on a similar project before](https://github.com/Renegade-React-Dev-Team/sample-dashboard-for-spikizi), with the same template. <br /> you can explore the source code for guidance on how I went about implementing the features, the UI design, ordering of folders, etc. kindly reach out if you have any questions.
 - do well to follow the patterns you observe in the aforementioned project. that will make your pull request accepted more quickly.
+here are the credentials for obtaining the token / logging in to the sample project
 - username: michael@effectstudios.co
 - password: v23R!DmgNzoN^
 <br />
